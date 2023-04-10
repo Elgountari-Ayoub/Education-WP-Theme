@@ -1,0 +1,2 @@
+2023-04-10T12:11:04+00:00 CRITICAL Out of memory (allocated 79691776) (tried to allocate 20480 bytes) in C:\xampp\htdocs\wordpress_\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php on line 683
+
